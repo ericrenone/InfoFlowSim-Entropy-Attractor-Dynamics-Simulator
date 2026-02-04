@@ -1,6 +1,6 @@
 # Thermodynamic Information Flow (TIF) Simulator
 
-Minimal, self-contained Python simulator demonstrating annealing-style optimization on the probability simplex using:
+## Core
 
 - Fisher–Rao natural gradient descent  
 - Time-dependent free energy functional  
