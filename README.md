@@ -15,5 +15,4 @@
 - Shannon entropy, KL divergence, free energy, Fisher information tracked  
 - Entropy production rate estimation  
 - Clean validation suite (convergence, equilibrium, metric consistency, …)  
-- Publication-quality multi-panel visualization
 
